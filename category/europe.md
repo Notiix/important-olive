@@ -3,7 +3,8 @@ title: Plants from Europe
 slug: europe
 layout: category
 section: Store
-menus:
+menu:
   categories:
-    weight: 5
+    weight: 2
+
 ---

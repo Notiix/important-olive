@@ -3,7 +3,8 @@ title: Cactuses
 slug: cactuses
 layout: category
 section: Store
-menus:
+menu:
   categories:
-    weight: 6
+    weight: 3
+
 ---

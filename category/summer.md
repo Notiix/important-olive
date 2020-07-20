@@ -3,7 +3,8 @@ title: Summer plants
 slug: summer
 layout: category
 section: Store
-menus:
+menu:
   categories:
-    weight: 2
+    weight: 1
+
 ---

@@ -3,7 +3,8 @@ title: Big plants
 slug: bigplants
 layout: category
 section: Store
-menus:
+menu:
   categories:
-    weight: 7
+    weight: 4
+
 ---

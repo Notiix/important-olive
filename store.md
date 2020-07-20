@@ -1,7 +1,9 @@
 ---
 title: Store
 layout: store
-menus:
+menu:
   main:
     weight: 1
+    title: Invite
+
 ---
