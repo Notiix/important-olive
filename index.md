@@ -2,8 +2,6 @@
 layout: index
 title: Home
 isHome: true
+
 ---
-
-# Real, beautiful plants right to your door
-
- 
+# The One Bot That Does All The Work.
